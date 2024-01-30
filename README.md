@@ -15,13 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, I'm Faith Abiola 👩🏽‍💻
+<div style="display: flex; align-items: center;">
+  <div style="margin-left: 20px;">
+    <h2>Hi there, I'm Faith Abiola 👩🏽‍💻</h2>
+  </div>
+   <div>
+    <img src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif" alt="Animated Pin" width="300" height="200">
+  </div>
+</div>
+
 
 I'm a passionate Software Engineer based in Lagos, Nigeria. I'm dedicated to providing value and excellence through my commitment to learning, innovation, and implementation of industry-leading practices in technology. My expertise includes TDD, Agile methodologies, and cutting-edge solutions to address real-world problems. 
 
 I am driven by a curiosity to explore the depths of technology, I thrive on challenges that require innovative thinking and a commitment to excellence. My journey in software engineering has equipped me with a solid understanding of various technologies, and I continuously seek opportunities to enhance my skills.
 
-I am passionate about creating positive impacts through technology. Let's connect, collaborate, and bring ideas to life!
+I am passionate about creating positive impacts through technology. Let's connect, collaborate, and bring ideas to life! 
+
+<!--![Animated Pin](https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif) -->
 
 ## 🔗 Connect with Me
 
