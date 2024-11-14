@@ -72,5 +72,4 @@ I am passionate about creating positive impacts through technology. Let's connec
 
 Feel free to explore my projects and connect with me on LinkedIn and GitHub. Let's build something amazing together! 🚀
 
-📄 [View Resume](https://docs.google.com/document/d/1x6Etl7KqdimzWK3D7v7E-dBC924F5HNvlr1FpbEY3ik/edit?usp=sharing)
 
